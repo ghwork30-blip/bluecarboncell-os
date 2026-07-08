@@ -1,0 +1,4 @@
+scenario,ship_type,engine_power_mw,annual_operating_hours,exhaust_temp_c,exhaust_mass_flow_kg_s,co2_vol_percent,capture_eff_percent,mcfc_nominal_power_kw,heat_recovery_eff_percent,pressure_loss_pa,pressure_limit_pa
+Base cargo ship,Cargo ship,8,4500,350,18,6,60,500,45,2500,5000
+High capture scenario,Cargo ship,8,4500,380,18,6,75,650,50,3000,5000
+Port hotel load,Ferry,3,3000,260,7,5,45,250,35,1800,4000

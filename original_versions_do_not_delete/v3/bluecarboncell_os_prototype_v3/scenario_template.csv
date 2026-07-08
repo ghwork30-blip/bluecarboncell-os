@@ -1,0 +1,4 @@
+scenario,ship,profile,engine_power,hours,temp,flow,co2,capture,power_kw,availability,heat_eff,dT,pressure_loss,pressure_limit,tmin,tmax,stable,compact,safety,data_quality,complexity
+Base cargo,Cargo ship,Open-sea cruising,8,4500,350,18,6,60,500,70,45,120,2500,5000,580,700,70,55,55,60,45
+Thermally matched retrofit,Cargo ship,Open-sea cruising,8,4500,610,18,6,75,700,75,55,140,2300,5000,580,700,85,65,65,70,35
+Port load,Ferry,Port / hotel load,3,3000,260,7,5,45,250,50,35,80,1800,4000,580,700,45,60,60,55,50

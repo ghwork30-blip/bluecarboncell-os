@@ -1,0 +1,4 @@
+scenario,ship_type,fuel_type,operating_profile,engine_power_mw,annual_operating_hours,exhaust_temp_c,exhaust_mass_flow_kg_s,co2_vol_percent,capture_eff_percent,mcfc_nominal_power_kw,mcfc_availability_percent,heat_recovery_eff_percent,recoverable_delta_t_c,pressure_loss_pa,pressure_limit_pa,mcfc_temp_min_c,mcfc_temp_max_c,stable_operation_percent,compactness_score_percent,safety_score_percent,data_quality_percent,carbon_value_eur_per_t,electricity_value_eur_per_mwh,heat_value_eur_per_mwh,estimated_capex_eur
+Base cargo ship,Cargo ship,Marine diesel oil / MGO,Open-sea cruising,8,4500,350,18,6,60,500,70,45,120,2500,5000,580,700,70,55,55,60,80,130,45,1500000
+High capture retrofit,Cargo ship,Marine diesel oil / MGO,Open-sea cruising,8,4500,610,18,6,75,700,75,55,140,2300,5000,580,700,85,65,65,70,80,130,45,1800000
+Port hotel load,Ferry,Marine diesel oil / MGO,Port / hotel load,3,3000,260,7,5,45,250,50,35,80,1800,4000,580,700,45,60,60,55,80,130,45,900000
