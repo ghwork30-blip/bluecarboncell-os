@@ -1,7 +1,5 @@
 
 # ============================================================
-# BlueCarbonCell OS - Better UI Edition
-# Keeps previous versions in Streamlit pages and archive folders.
 # ============================================================
 
 from __future__ import annotations
